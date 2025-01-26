@@ -7,3 +7,7 @@ let productName = "Switch";
 const productPrice = 300;
 var isAvailable = true;
 console.log(productName,typeof(productName), productPrice, typeof(productPrice), isAvailable, typeof(isAvailable))
+
+let accountBalance = 5;
+let total = (accountBalance*5) / (27 - 3 + 1);
+console.log(total)
