@@ -11,3 +11,8 @@ console.log(productName,typeof(productName), productPrice, typeof(productPrice),
 let accountBalance = 5;
 let total = (accountBalance*5) / (27 - 3 + 1);
 console.log(total)
+
+let customerName = "Sandy";
+let message = "Hello ";
+let welcomeMessage = message + customerName;
+console.log(welcomeMessage)
