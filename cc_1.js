@@ -16,3 +16,10 @@ let customerName = "Sandy";
 let message = "Hello ";
 let welcomeMessage = message + customerName;
 console.log(welcomeMessage)
+
+let isLoggedIn = false;
+     if (isLoggedIn == true) {
+        console.log("Access Granted")
+     }
+    else {
+        console.log("access denied")}
